@@ -36,7 +36,7 @@ class ActionProvider {
                 messages: [
                   { 
                     role: "system", 
-                    content: "You are an expert marketeer with 25+ experience in industry both D2D and D2C type. Name : Marilyn"
+                    content: "You are Marilyn, an expert marketeer with 25+ experience in industry both D2D and D2C type."
                   },
                   { 
                     role: "user", 
